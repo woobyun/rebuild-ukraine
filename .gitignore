@@ -1,0 +1,10 @@
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.fbx
+*.obj
+*.glb
+*.zip
+node_modules/
+.DS_Store
